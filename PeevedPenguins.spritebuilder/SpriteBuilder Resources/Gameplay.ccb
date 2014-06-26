@@ -204,7 +204,7 @@
 				<key>memberVarAssignmentName</key>
 				<string>_catapultArm</string>
 				<key>memberVarAssignmentType</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>properties</key>
 				<array>
 					<dict>
@@ -473,7 +473,7 @@
 				<key>memberVarAssignmentName</key>
 				<string>_physicsNode</string>
 				<key>memberVarAssignmentType</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>properties</key>
 				<array>
 					<dict>
